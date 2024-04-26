@@ -24,4 +24,3 @@ TODO
 Disclaimer
 ==========================
 This is a side project, done in a few hours. Don't expect outstanding code quality, you will probably find something better out in the wild.
-This was a personal project.
