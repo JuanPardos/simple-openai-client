@@ -7,8 +7,11 @@ Features
 Usage
 ==========================
 - Install required modules
+  
 pip install pycryptodome
+
 pip install rich
+
 pip install openai
 
 - Run it.
