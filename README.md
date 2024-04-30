@@ -8,13 +8,9 @@ Usage
 ==========================
 - Install required modules
   
-pip install pycryptodome
+pip install -r requirements.txt
 
-pip install rich
-
-pip install openai
-
-- Run it.
+- Run amai.py
 
 TODO
 ==========================
